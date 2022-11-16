@@ -1,3 +1,5 @@
+<h1 align="center">My JAVA Fundamentals</h1>
+
 This is my repositoty containing all the fundamentals of JAVA, like:
 
 - Variables
