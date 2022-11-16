@@ -7,10 +7,11 @@ public class SwitchCase {
 
         Scanner input = new Scanner(System.in);
 
+        String oi = "oa";
         System.out.print("Qual o dia da semana: ");
         String diaSemana = input.nextLine().toLowerCase();
 
-        switch (diaSemana) {
+        switch (oi) {
             case "segunda":
                 System.out.println("Hoje eh segunda-feira");
                 break;
