@@ -13,4 +13,4 @@ This is my repositoty containing all the fundamentals of JAVA, like:
 - Collections
 - Exceptions
 
-Here is where I can consult and look back to remember how i started.
+Here is where I can consult and look back to remember how I started.
