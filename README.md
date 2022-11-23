@@ -12,5 +12,8 @@ This is my repositoty containing all the fundamentals of JAVA, like:
 - POO
 - Collections
 - Exceptions
+- Threads
+- Garbage Collector
+- Strings
 
 Here is where I can consult and look back to remember how I started.
